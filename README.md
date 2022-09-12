@@ -43,4 +43,3 @@ Para contribuir com <nome_do_projeto>, siga estas etapas:
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-![BoombAppKotlin](https://user-images.githubusercontent.com/79731855/189669874-3190fc92-a423-41de-a073-b239c471806b.png)
