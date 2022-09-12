@@ -3,10 +3,6 @@
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/pedro-developeer/BoombApp?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/pedro=developeer/BoombApp?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/pedro-developeer/boombapp?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/pedro-developeer/BoombApp?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Pedro-developeer/BoombApp?style=for-the-badge)
 
 <img src="https://user-images.githubusercontent.com/79731855/189669874-3190fc92-a423-41de-a073-b239c471806b.png" alt="ehttps://user-images.githubusercontent.com/79731855/189669874-3190fc92-a423-41de-a073-b239c471806b.png">
 
